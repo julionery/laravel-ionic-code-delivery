@@ -1,4 +1,6 @@
-
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/laravel-angular-ionic.png?raw=true">
+</h3>
 <h1 align="center">Code Delivey</h1>
 
 ## Projeto do Curso Laravel 5.1 com Ionic + Cordova da [Code Education](https://code.education/). 
